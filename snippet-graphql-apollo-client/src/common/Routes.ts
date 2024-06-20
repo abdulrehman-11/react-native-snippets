@@ -1,0 +1,17 @@
+export default {
+  SplashScreen: 'SplashScreen',
+  LoginScreen: 'LoginScreen',
+  SignupScreen: 'SignupScreen',
+  ForgotPasswordEmailScreen: 'ForgotPasswordEmailScreen',
+  ForgotPasswordPhoneScreen: 'ForgotPasswordPhoneScreen',
+  EnterOTPScreen: 'EnterOTPScreen',
+  CreateNewPasswordScreen: 'CreateNewPasswordScreen',
+  ShopStack: 'shop',
+  CouponsStack: 'Coupons',
+  QRScreen: 'QRScreen',
+  CouponsScreen: 'CouponsScreen',
+  CouponDetailScreen: 'CouponDetailScreen',
+  LanguageScreen: 'LanguageScreen',
+  ProfileStack: 'ProfileStack',
+  BoughtCouponDetailScreen: 'BoughtCouponDetailScreen',
+};
